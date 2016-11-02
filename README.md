@@ -15,9 +15,13 @@ _1 TILs and counting..._
 
 ### Categories
 
+* [Ruby](#ruby)
 * [Unix](#unix)
 
 ---
+
+### Ruby
+- [Single vs Double Quotes](ruby/single-vs-double-quotes.md)
 
 ### Unix
 - [Clear the terminal](unix/clear-the-terminal.md)
