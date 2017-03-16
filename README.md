@@ -16,12 +16,16 @@ _1 TILs and counting..._
 ### Categories
 
 * [Ruby](#ruby)
+* [Spacemacs](#spacemacs)
 * [Unix](#unix)
 
 ---
 
 ### Ruby
 - [Single vs Double Quotes](ruby/single-vs-double-quotes.md)
+
+### Spacemacs
+- [Switch to previous buffer](spacemacs/switch-to-previous-buffer.md)
 
 ### Unix
 - [Clear the terminal](unix/clear-the-terminal.md)
